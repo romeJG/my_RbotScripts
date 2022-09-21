@@ -1,0 +1,2 @@
+%xt%zm%FishCast%1%Dynamite%18%
+%xt%zm%getFish%1%false%
